@@ -15,13 +15,6 @@ Feel free to call me "Sion" (pronounced "Shee-on")!
 
 <br>
 
-## 🧐 Status
-![Sion's GitHub stats](https://github-readme-stats.vercel.app/api?username=sion555&show_icons=true&theme=radical)
-
-</div>
-
-<br>
-
 <div align="center">
   
 ### 🛠 Tech Stack
@@ -50,3 +43,16 @@ Feel free to call me "Sion" (pronounced "Shee-on")!
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
 
 </div>
+
+<br>
+<br>
+<br>
+
+<!--## 🧐 Status -->
+![Sion's GitHub stats](https://github-readme-stats.vercel.app/api?username=sion555&show_icons=true&theme=radical)
+
+</div>
+
+<br>
+
+
