@@ -1,3 +1,8 @@
+<video width="600" controls>
+  <source src="[https://github.com/sion555/SionWelcome/raw/main/WelcomeSion.mp4](https://github.com/sion555/SionWelcome/raw/main/WelcomeSion.mp4)" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 <div align="center">
 
 ## 👋 About Me
