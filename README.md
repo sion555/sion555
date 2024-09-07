@@ -1,9 +1,10 @@
-<video width="600" controls>
-  <source src="[https://github.com/sion555/SionWelcome/raw/main/WelcomeSion.mp4](https://github.com/sion555/SionWelcome/raw/main/WelcomeSion.mp4)" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 <div align="center">
+
+![](https://github.com/sion555/SionWelcome/raw/main/WelcomeSion.gif)
+
+<br>
 
 ## 👋 About Me
 저는 사람들의 장점을 발견하고 칭찬하는 것을 좋아하는 iOS 개발자, 한범석입니다.  
@@ -12,11 +13,12 @@
 
 <br>
 
+<!--
 ## 👋 About Me (English)
 I'm Beomseok Han, an iOS developer who loves discovering and appreciating people's strengths.  
 I hope the apps I create can bring even small, positive changes to people's lives.  
 Feel free to call me "Sion" (pronounced "Shee-on")!
-
+-->
 
 <br>
 
