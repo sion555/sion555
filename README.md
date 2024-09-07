@@ -52,11 +52,28 @@ Feel free to call me "Sion" (pronounced "Shee-on")!
 </div>
 
 <br>
-<br>
-<br>
+
 
 <!--## 🧐 Status -->
-![Sion's GitHub stats](https://github-readme-stats.vercel.app/api?username=sion555&show_icons=true&theme=radical)
+<!--
+![Sion's GitHub stats](https://github-readme-stats.vercel.app/api?username=sion555&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sion555&layout=compact&theme=tokyonight)
+-->
+
+
+### 🧐 Status
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sion555&show_icons=true&theme=tokyonight" alt="Sion's GitHub stats" />
+    </td>
+    <td style="padding-left: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sion555&layout=compact&theme=tokyonight" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
+
+
 
 </div>
 
