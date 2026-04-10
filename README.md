@@ -5,12 +5,12 @@
 ![](https://github.com/sion555/SionWelcome/raw/main/WelcomeSion.gif)
 
 <br>
-
+<!--
 ## 👋 About Me
 저는 사람들의 장점을 발견하고 칭찬하는 것을 좋아하는 iOS 개발자, 한범석입니다.  
 제가 만든 앱이 사람들의 삶에 긍정적인 변화를 줄 수 있기를 바랍니다.  
 "시온(Sion)"이라고도 불러요!
-
+-->
 <br>
 
 <!--
@@ -36,7 +36,9 @@ Feel free to call me "Sion" (pronounced "Shee-on")!
 </div>
 
 <br>
-
+  
+  
+<!--
 <div align="center">
   
 ### 🖥 Tools I Use
@@ -50,7 +52,7 @@ Feel free to call me "Sion" (pronounced "Shee-on")!
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
 
 </div>
-
+-->
 <br>
 
 
@@ -59,7 +61,7 @@ Feel free to call me "Sion" (pronounced "Shee-on")!
 ![Sion's GitHub stats](https://github-readme-stats.vercel.app/api?username=sion555&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sion555&layout=compact&theme=tokyonight)
 -->
 
-
+<!--
 ### 🧐 Status
 
 <table border="0">
@@ -73,7 +75,7 @@ Feel free to call me "Sion" (pronounced "Shee-on")!
   </tr>
 </table>
 
-
+-->
 
 </div>
 
